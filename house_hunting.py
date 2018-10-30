@@ -1,0 +1,5 @@
+total_cost = float(input("What is the total cost of your dream home?") )
+annual_salary = float(input("What is your annual salary?"))
+portion_saved = float(input("What portion will yoube saving?"))
+portion_down_payment = int(input(0.25))
+current_savings = int(input(0))
